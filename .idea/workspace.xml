@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33558d37-f583-48ad-9682-8eed487a3260" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePOOITtS8iw9C2sTMvvW4Y15FM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/REST_API_App/migrations" />
+      <recent name="$PROJECT_DIR$/REST_API_App" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/REST_API_App/static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33558d37-f583-48ad-9682-8eed487a3260" name="Default Changelist" comment="" />
+      <created>1594219727411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594219727411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594354803440">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1594354803440" />
+    <state x="466" y="306" width="490" height="189" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1594351630523">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="466" y="306" width="490" height="189" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/67.27.1299.741@67.27.1299.741" timestamp="1594351630523" />
+    <state width="784" height="568" key="DebuggerActiveHint" timestamp="1594352831699">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="784" height="568" key="DebuggerActiveHint/67.27.1299.741@67.27.1299.741" timestamp="1594352831699" />
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594350802195">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1594350802195" />
+    <state width="1276" height="265" key="GridCell.Tab.0.bottom" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.0.center" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.0.left" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.0.right" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.1.bottom" timestamp="1594354808203">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594354808203" />
+    <state width="1276" height="265" key="GridCell.Tab.1.center" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.1.left" timestamp="1594354808202">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1594354808202" />
+    <state width="1276" height="265" key="GridCell.Tab.1.right" timestamp="1594354808203">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="265" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1594354808203" />
+    <state width="649" height="370" key="XDebugger.FullValuePopup" timestamp="1594280084738">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="649" height="370" key="XDebugger.FullValuePopup/67.27.1299.741@67.27.1299.741" timestamp="1594280084738" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1594344932569">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594344932569" />
+    <state x="266" y="85" width="891" height="631" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594292607191">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="266" y="85" width="891" height="631" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1299.741@67.27.1299.741" timestamp="1594292607191" />
+    <state x="364" y="109" width="704" height="576" key="find.popup" timestamp="1594227835805">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="364" y="109" width="704" height="576" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1594227835805" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1594221808096">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1594221808096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/REST_API_App/views.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request.GET.shop_id" language="Python" />
+        <watch expression="request.GET['shop_id']" language="Python" />
+        <watch expression="file.upload.url" language="Python" />
+        <watch expression="product_data.url" language="Python" />
+        <watch expression="media_querySet" language="Python" />
+        <watch expression="media_querySet" language="Python" />
+        <watch expression="i.shop_name" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
